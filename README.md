@@ -15,5 +15,8 @@ With the observations that we have made from all the algorithms we can reject ou
 TODO:
 1. Try on other types of stocks and not just technology.
 2. Better tuning on stock data for the deep-learning models.
-3. Try to find more exogenous variables (like NIFTY) such as comodities values to see if all of them together improve accuracy.
-4. Increase time-frame of data.
+3. Exhaustively search for better networks for deep-learning models. 
+4. Incorporate early-stopping for deep-learning models. 
+5. Try to find more exogenous variables (like NIFTY) such as comodities values to see if all of them together improve accuracy.
+6. Experiment with stocks that depend more on overall market like BSE stocks and small-cap which will make the experimental setup more diverse
+7. Increase time-frame of data so as to see if there is another order of seasonality that was missed..
