@@ -1,4 +1,4 @@
-# ML-timeseries-project
+# Machine-Learning-Project
 
 This project has been created by Sriayndass Adidass and Reet Barik as a part of the Machine Learning coursework. Here we try different timeseries prediction models on technology stock data from 2013 - 2018 to find out if adding NIFTY (equivalent to NASDAQ in the USA) as the exogenous feature to a stock, betters the prection of the stock. This is based on the intuition that NIFTY acts as an ecapsulation of all the events (such as political news, petrol price, exchange rate, etc.) which very much affect the price of the stock. We have considered technology stocks only for now because technology industry has been driving economy for the past few years in India (expecially in th 5 year period we are considering) and if we prove the hypothesis is correct here, there is high chance that it is true for other stocks too.
 
